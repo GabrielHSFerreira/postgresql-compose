@@ -1,4 +1,4 @@
-# postgresq;-compose
+# postgresql-compose
 
 A simple Docker Compose to run Postgresql in container with persistent volume. Customize at your will!
 
